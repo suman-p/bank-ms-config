@@ -1,1 +1,1 @@
-# eazybytes-config
+# vedik-config
